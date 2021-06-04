@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\Arquivos Usuário\Desktop\projeto-xadrez\.metadata\.plugins\org.eclipse.jdt.core
+1899321121.index
+4095658889.index
